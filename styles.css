@@ -53,3 +53,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
 }
+.logo{
+    margin-top: 20px;
+    padding: 100px;
+}
