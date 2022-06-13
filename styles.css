@@ -6,6 +6,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  height: 400px;
 }
 
 .bilder {
@@ -34,5 +35,8 @@
 }
 .logo {
   width: 200px;
+  height: 200px;
+}
+#milan {
   height: 200px;
 }
