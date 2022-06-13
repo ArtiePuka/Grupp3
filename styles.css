@@ -8,6 +8,7 @@
   flex-direction: column;
   height: 400px;
   background: white;
+  margin: 40px;
 }
 .item-container:hover {
   background: rgb(225, 225, 225);
@@ -46,4 +47,9 @@ body {
 }
 #milan {
   height: 200px;
+}
+.overlord-conatiner {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
