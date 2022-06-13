@@ -7,6 +7,13 @@
   justify-content: center;
   flex-direction: column;
   height: 400px;
+  background: white;
+}
+.item-container:hover {
+  background: rgb(225, 225, 225);
+}
+body {
+  background: #89cff0;
 }
 
 .bilder {
