@@ -6,6 +6,14 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  height: 400px;
+  background: white;
+}
+.item-container:hover {
+  background: rgb(225, 225, 225);
+}
+body {
+  background: #89cff0;
 }
 
 .bilder {
@@ -34,5 +42,8 @@
 }
 .logo {
   width: 200px;
+  height: 200px;
+}
+#milan {
   height: 200px;
 }
